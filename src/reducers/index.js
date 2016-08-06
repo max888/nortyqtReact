@@ -1,7 +1,8 @@
 import { combineReducers } from 'redux';
+import  reducerVehicles  from './reducer_vehicles';
 
 const rootReducer = combineReducers({
-  state: (state = {}) => state
+  vehicles: reducerVehicles
 });
 
 export default rootReducer;

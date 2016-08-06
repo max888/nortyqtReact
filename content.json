@@ -1,0 +1,22 @@
+{"vehicles":[
+  {
+    "name":"Karl",
+    "make":"Isuzu",
+    "mainImage": "/img/placeholders/dummy-454x280-Menu.jpg"
+  },
+  {
+    "name":"Karl",
+    "make":"Isuzu",
+    "mainImage": "/img/placeholders/dummy-454x280-Menu.jpg"
+  },
+  {
+    "name":"Richard",
+    "make":"Ford Transit",
+    "mainImage": "/img/placeholders/dummy-454x280-Menu.jpg"
+  },
+  {
+    "name":"MadeUpQT",
+    "make":"Mitusbishi",
+    "mainImage": "/img/placeholders/dummy-454x280-Menu.jpg"
+  }
+]}
