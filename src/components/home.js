@@ -4,6 +4,7 @@ import Navbar from '../components/navbar';
 import { fetchVehicles } from '../actions/index';
 
 
+
 class Home extends Component {
 
     componentWillMount() {
